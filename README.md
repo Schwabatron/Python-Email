@@ -1,2 +1,2 @@
 # Python-Email
-Using the smtpd 
+Using the smtplib library 
